@@ -128,3 +128,30 @@ El control de versiones mediante la terminal de comandos es el estándar de la i
 En conclusión, la Inteligencia Artificial ha dejado de ser una tecnología del futuro para convertirse en el motor invisible de la sociedad moderna. Su evolución acelerada plantea un escenario dual: por un lado, optimiza procesos industriales, salva vidas mediante diagnósticos médicos ultraprecisos y democratiza el acceso al conocimiento; por el otro, agudiza debates éticos urgentes sobre la privacidad de los datos, el desplazamiento laboral y la propagación de desinformación masiva. 
 
 El verdadero éxito de la revolución de la IA no se medirá por la potencia de sus algoritmos o el tamaño de sus modelos de lenguaje, sino por la capacidad de los gobiernos, desarrolladores y ciudadanos para cooperar en la creación de regulaciones internacionales estrictas. Solo a través de un desarrollo ético y con un enfoque centrado en el bienestar humano se podrá garantizar que la IA funcione como una herramienta de equidad global y no como un factor de división socioeconómica.
+
+## Ejemplos
+
+
+# 1. Ver el estado del repositorio
+git status
+
+# 2. Preparar todos los cambios
+git add .
+
+# 3. Guardar los cambios
+git commit -m "Mi primer commit"
+
+# 4. Ver el historial de commits
+git log
+
+# 5. Crear una nueva rama
+git branch nueva-rama
+
+# 6. Cambiar de rama
+git checkout nueva-rama
+
+# 7. Descargar cambios del repositorio remoto
+git pull
+
+# 8. Subir cambios al repositorio remoto
+git push
