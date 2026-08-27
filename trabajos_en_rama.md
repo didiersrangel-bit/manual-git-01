@@ -1074,4 +1074,6 @@ Y en tu rama:
 
 const color = "red";
 
-Si ambas ramas modifican exactamente la misma parte de una forma incompatible, Git puede detenerse.e
+Si ambas ramas modifican exactamente la misma parte de una forma incompatible, Git puede detenerse. 
+
+El flujo de trabajo basado en **ramas en Git** (*branching*) es fundamental en el desarrollo de software colaborativo, ya que permite a los desarrolladores aislar el trabajo en nuevas funcionalidades, correcciones de errores o experimentos sin alterar el código principal en la rama principal (`main` o `master`). Al crear una rama independiente, puedes realizar cambios, iterar y probar de forma segura; una vez que el código está listo y verificado, se integra de nuevo al proyecto mediante una solicitud de extracción (*pull request*) o fusión (*merge*). Esta estrategia no solo previene conflictos directos en el código de producción, sino que también facilita la revisión por parte del equipo, mejora la trazabilidad de las versiones y mantiene un historial claro y organizado de todo el proceso de desarrollo.
