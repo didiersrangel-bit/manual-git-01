@@ -108,3 +108,15 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 -   `git merge <branch_name>`: Fusiona los cambios de una rama con la rama actual.
 
 -   `git rebase <branch_name>`: Integra los cambios de una rama en otra rama.
+
+### Historial y deshacer:
+
+-   `git log`: Muestra el historial de confirmaciones.
+
+-   `git reset <commit_hash>`: Restablece el repositorio a una confirmación específica.
+
+-   `git stash`: Guarda temporalmente los cambios que no están listos para ser confirmados.
+
+
+
+**Seguridad y Respaldo:** Permite restaurar versiones anteriores del proyecto ante fallos o errores en producción.
