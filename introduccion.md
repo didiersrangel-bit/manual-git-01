@@ -15,3 +15,6 @@ mas secillo de revisar
 veremos que es menos propenso a cometer errores. Algunas estructuras habituales son:
 
 -mi_proyecto -src/ -tests/ -docs/ y por ultimo uno de los amas usados que es (Github)
+
+
+-Ya en lo ultimos encontraremos los trabajos con ramas, practicamente esto nos dice que cuanto trabajamos en un proyecto usando (Github) las ramas son unas herramientas de ayudas para los programadores ya que asi cada quien trabaja por separado y no dañan el proyecto original, 
