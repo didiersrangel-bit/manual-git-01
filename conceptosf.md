@@ -53,3 +53,20 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 -   Resolución de conflictos: Los conflictos se producen cuando Git no puede fusionar automáticamente los cambios. Es necesario resolverlos manualmente editando los archivos en conflicto.
 
 -   Revisión de código: GitHub permite a los revisores dejar comentarios y sugerir cambios en las solicitudes de extracción, lo que facilita un proceso de revisión de código colaborativo.
+## Flujo de trabajo de Git
+
+-   Inicialización de un repositorio: `git init`inicializa un nuevo repositorio Git en el directorio actual.
+
+-   Agregar y confirmar cambios: `git add`agrega archivos al área de preparación y `git commit`confirma los cambios realizados en el área de preparación en el repositorio.
+
+-   Enviar cambios: `git push`envía las confirmaciones locales a un repositorio remoto.
+
+-   Descarga de cambios: `git pull`obtiene los cambios de un repositorio remoto y los fusiona con la rama actual.
+
+-   Ramificación: `git branch`crea una nueva rama y `git checkout`cambia entre ramas.
+
+-   Fusión: `git merge`combina los cambios de diferentes ramas en una sola rama.
+
+-   Rebase: `git rebase`integra los cambios de una rama en otra moviendo o combinando confirmaciones.
+
+-   Resolución de conflictos: Los conflictos se pueden resolver editando manualmente los archivos en conflicto y confirmando los cambios.
