@@ -99,3 +99,11 @@ git checkout -b otra-funcion
 
 # Fusiona los cambios de otra rama dentro de la rama donde estás parado actualmente
 git merge nueva-funcion
+
+## Resumen del Flujo Diario 
+Si ya tienes todo configurado, tu rutina diaria de comandos se reduce a esto:
+1. `git pull` *(para empezar el día con el código actualizado)*
+2. Haces tus cambios en el código...
+3. `git add .` *(preparas los archivos)*
+4. `git commit -m "mensaje"` *(guardas localmente)*
+5. `git push` *(lo subes a GitHub)*
