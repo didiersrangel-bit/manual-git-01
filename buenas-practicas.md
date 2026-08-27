@@ -79,3 +79,7 @@ Merge a main
 | `git switch` | Permite cambiar de rama                           |
 | `git merge`  | Une los cambios de una rama con otra              |
 | `git log`    | Muestra el historial de commits                   |
+
+# Conclusión #
+
+Git es una herramienta fundamental para el desarrollo de software porque permite controlar y organizar las diferentes versiones de un proyecto. Sin embargo, utilizar Git no consiste únicamente en ejecutar comandos, sino también en seguir buenas prácticas como realizar commits claros, utilizar ramas, revisar los cambios, mantener actualizado el repositorio y proteger la información privada.
