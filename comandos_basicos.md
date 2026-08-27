@@ -107,3 +107,19 @@ Si ya tienes todo configurado, tu rutina diaria de comandos se reduce a esto:
 3. `git add .` *(preparas los archivos)*
 4. `git commit -m "mensaje"` *(guardas localmente)*
 5. `git push` *(lo subes a GitHub)*
+
+## Ventajas y Desventajas de los Comandos Básicos de Git y GitHub
+
+El control de versiones mediante la terminal de comandos es el estándar de la industria del software. A continuación, se presenta un análisis de los pros y contras de dominar estos comandos fundamentales.
+
+### Ventajas
+* **Velocidad y Eficiencia:** La ejecución de comandos por terminal consume menos recursos del sistema y es drásticamente más rápida que hacer clics en una interfaz gráfica (GUI).
+* **Control Total del Historial:** Permite rastrear, modificar, fusionar o revertir cualquier cambio línea por línea con precisión absoluta mediante hashes de confirmación específicos.
+* **Automatización de Tareas:** Los comandos se pueden integrar fácilmente en scripts externos, flujos de trabajo automáticos (como GitHub Actions) y procesos de despliegue continuo (CI/CD).
+* **Compatibilidad Universal:** Funciona exactamente igual en cualquier sistema operativo (Linux, macOS, Windows) y en entornos remotos de servidores donde no existe una interfaz visual.
+
+### Desventajas
+* **Curva de Aprendizaje Elevada:** Memorizar la sintaxis exacta, los modificadores y los parámetros iniciales resulta complejo y poco intuitivo para usuarios principiantes.
+* **Riesgo de Errores Críticos:** Un comando mal ejecutado (como un `git push --force` o un `git reset --hard`) puede borrar permanentemente semanas de trabajo del repositorio local o remoto.
+* **Complejidad en Conflictos:** Resolver conflictos de fusión (*merge conflicts*) complejos a través de líneas de texto en la terminal puede ser confuso sin el apoyo visual de un editor de código.
+* **Falta de Feedback Visual:** No ofrece mapas visuales automáticos ni diagramas de la estructura de las ramas a menos que se utilicen comandos avanzados de formato muy largos.
