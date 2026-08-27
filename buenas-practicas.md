@@ -83,3 +83,6 @@ Merge a main
 # Conclusión #
 
 Git es una herramienta fundamental para el desarrollo de software porque permite controlar y organizar las diferentes versiones de un proyecto. Sin embargo, utilizar Git no consiste únicamente en ejecutar comandos, sino también en seguir buenas prácticas como realizar commits claros, utilizar ramas, revisar los cambios, mantener actualizado el repositorio y proteger la información privada.
+
+
+![buenas practicas](image.png)
