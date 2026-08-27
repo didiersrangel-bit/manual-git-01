@@ -22,3 +22,15 @@ veremos que es menos propenso a cometer errores. Algunas estructuras habituales 
 -crear una rama -hacer cambios -publicar rama
 
 Etc y veremos para que sirven estos flujos de trabajos.
+
+
+# Comandos basicos
+
+git init
+git status
+git add .
+git commit -m "Primer commit"
+git branch
+git switch nombre-rama
+git push
+git pull
