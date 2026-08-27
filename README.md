@@ -4,3 +4,4 @@
 - Alberto mario perez castro
 - Emanuel De Jesus Perez Florez
 - Yostin David Alvrez Caro
+- Didier Rangel Cadenas
