@@ -123,3 +123,8 @@ El control de versiones mediante la terminal de comandos es el estándar de la i
 * **Riesgo de Errores Críticos:** Un comando mal ejecutado (como un `git push --force` o un `git reset --hard`) puede borrar permanentemente semanas de trabajo del repositorio local o remoto.
 * **Complejidad en Conflictos:** Resolver conflictos de fusión (*merge conflicts*) complejos a través de líneas de texto en la terminal puede ser confuso sin el apoyo visual de un editor de código.
 * **Falta de Feedback Visual:** No ofrece mapas visuales automáticos ni diagramas de la estructura de las ramas a menos que se utilicen comandos avanzados de formato muy largos.
+
+## Conclusión General de la Investigación (IA)
+En conclusión, la Inteligencia Artificial ha dejado de ser una tecnología del futuro para convertirse en el motor invisible de la sociedad moderna. Su evolución acelerada plantea un escenario dual: por un lado, optimiza procesos industriales, salva vidas mediante diagnósticos médicos ultraprecisos y democratiza el acceso al conocimiento; por el otro, agudiza debates éticos urgentes sobre la privacidad de los datos, el desplazamiento laboral y la propagación de desinformación masiva. 
+
+El verdadero éxito de la revolución de la IA no se medirá por la potencia de sus algoritmos o el tamaño de sus modelos de lenguaje, sino por la capacidad de los gobiernos, desarrolladores y ciudadanos para cooperar en la creación de regulaciones internacionales estrictas. Solo a través de un desarrollo ético y con un enfoque centrado en el bienestar humano se podrá garantizar que la IA funcione como una herramienta de equidad global y no como un factor de división socioeconómica.
