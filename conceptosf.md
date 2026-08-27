@@ -44,3 +44,12 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 -   **Solicitud de extracción:** Una solicitud de extracción es un mecanismo para proponer cambios en un repositorio. Permite a los colaboradores notificar a otros sobre los cambios que han realizado y solicitarles que los revisen y los integren al repositorio principal.
 -
 -   **Seguimiento de incidencias:** GitHub proporciona un sistema integrado de seguimiento de incidencias para gestionar tareas, errores y solicitudes de nuevas funcionalidades de un proyecto.
+## Colaboración con Git y GitHub
+
+-   Agregar colaboradores: Puedes otorgar a otros usuarios de GitHub acceso a tu repositorio como colaboradores, permitiéndoles enviar cambios.
+
+-   Descarga de cambios: Esta función obtiene los cambios de un repositorio remoto y los fusiona con la rama actual.
+
+-   Resolución de conflictos: Los conflictos se producen cuando Git no puede fusionar automáticamente los cambios. Es necesario resolverlos manualmente editando los archivos en conflicto.
+
+-   Revisión de código: GitHub permite a los revisores dejar comentarios y sugerir cambios en las solicitudes de extracción, lo que facilita un proceso de revisión de código colaborativo.
