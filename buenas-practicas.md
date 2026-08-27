@@ -63,3 +63,19 @@ Crear Pull Request
 Revisión del código
   ↓
 Merge a main
+
+
+##  Comandos básicos de Git ##
+| Comando      | Función                                           |
+| ------------ | ------------------------------------------------- |
+| `git init`   | Crea un nuevo repositorio Git                     |
+| `git clone`  | Copia un repositorio existente                    |
+| `git status` | Muestra el estado de los archivos                 |
+| `git add`    | Prepara archivos para un commit                   |
+| `git commit` | Guarda los cambios en el historial                |
+| `git push`   | Envía cambios al repositorio remoto               |
+| `git pull`   | Descarga e integra cambios del repositorio remoto |
+| `git branch` | Permite administrar ramas                         |
+| `git switch` | Permite cambiar de rama                           |
+| `git merge`  | Une los cambios de una rama con otra              |
+| `git log`    | Muestra el historial de commits                   |
