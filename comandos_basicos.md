@@ -80,3 +80,22 @@ git pull
 
 # Muestra el historial completo de commits realizados en el proyecto
 git log --oneline
+
+## 6. Manejo de Ramas (Branches)
+Las ramas te permiten experimentar con nuevas funciones sin alterar el código principal que ya funciona.
+
+```bash
+# Lista todas las ramas locales de tu proyecto
+git branch
+
+# Crea una nueva rama
+git branch nueva-funcion
+
+# Cambia de rama para empezar a trabajar en ella
+git checkout nueva-funcion
+
+# Crea una nueva rama y te cambia a ella automáticamente en un solo paso
+git checkout -b otra-funcion
+
+# Fusiona los cambios de otra rama dentro de la rama donde estás parado actualmente
+git merge nueva-funcion
