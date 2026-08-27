@@ -1074,4 +1074,4 @@ Y en tu rama:
 
 const color = "red";
 
-Si ambas ramas modifican exactamente la misma parte de una forma incompatible, Git puede detenerse.
+Si ambas ramas modifican exactamente la misma parte de una forma incompatible, Git puede detenerse.e
