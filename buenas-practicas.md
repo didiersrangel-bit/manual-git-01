@@ -63,3 +63,26 @@ Crear Pull Request
 Revisión del código
   ↓
 Merge a main
+
+
+##  Comandos básicos de Git ##
+| Comando      | Función                                           |
+| ------------ | ------------------------------------------------- |
+| `git init`   | Crea un nuevo repositorio Git                     |
+| `git clone`  | Copia un repositorio existente                    |
+| `git status` | Muestra el estado de los archivos                 |
+| `git add`    | Prepara archivos para un commit                   |
+| `git commit` | Guarda los cambios en el historial                |
+| `git push`   | Envía cambios al repositorio remoto               |
+| `git pull`   | Descarga e integra cambios del repositorio remoto |
+| `git branch` | Permite administrar ramas                         |
+| `git switch` | Permite cambiar de rama                           |
+| `git merge`  | Une los cambios de una rama con otra              |
+| `git log`    | Muestra el historial de commits                   |
+
+# Conclusión #
+
+Git es una herramienta fundamental para el desarrollo de software porque permite controlar y organizar las diferentes versiones de un proyecto. Sin embargo, utilizar Git no consiste únicamente en ejecutar comandos, sino también en seguir buenas prácticas como realizar commits claros, utilizar ramas, revisar los cambios, mantener actualizado el repositorio y proteger la información privada.
+
+
+![buenas practicas](image.png)
