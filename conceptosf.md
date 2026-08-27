@@ -32,3 +32,15 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 **Trabajo en Paralelo:** Múltiples desarrolladores pueden trabajar simultáneamente en el mismo proyecto sin sobrescribir el trabajo de los demás.
 
 **Seguridad y Respaldo:** Permite restaurar versiones anteriores del proyecto ante fallos o errores en producción.
+
+# Conceptos básicos de GitHub
+
+-   **GitHub:** GitHub es un servicio de alojamiento web para repositorios Git. Ofrece funciones adicionales como una interfaz web, seguimiento de incidencias, solicitudes de extracción y herramientas de colaboración.
+-
+-   **Repositorio remoto:** Un repositorio remoto es un repositorio Git alojado en un servidor remoto, como GitHub.
+-
+-   **Bifurcación:** Bifurcar un repositorio crea una copia personal del repositorio en GitHub. Esto te permite experimentar libremente con los cambios sin afectar al repositorio original.
+-
+-   **Solicitud de extracción:** Una solicitud de extracción es un mecanismo para proponer cambios en un repositorio. Permite a los colaboradores notificar a otros sobre los cambios que han realizado y solicitarles que los revisen y los integren al repositorio principal.
+-
+-   **Seguimiento de incidencias:** GitHub proporciona un sistema integrado de seguimiento de incidencias para gestionar tareas, errores y solicitudes de nuevas funcionalidades de un proyecto.
