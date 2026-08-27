@@ -23,6 +23,17 @@ veremos que es menos propenso a cometer errores. Algunas estructuras habituales 
 
 Etc y veremos para que sirven estos flujos de trabajos.
 
+# Comandos basicos
+
+git init
+git status
+git add .
+git commit -m "Primer commit"
+git branch
+git switch nombre-rama
+git push
+git pull
+
 Claro. Si es una introducción de investigación sobre Git, puedes hacerla más específica mencionando el problema, la importancia de Git, qué se investigará y su utilidad. Aquí tienes varios ejemplos:
 
 Ejemplo 1 
