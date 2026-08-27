@@ -120,3 +120,12 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 
 
 **Seguridad y Respaldo:** Permite restaurar versiones anteriores del proyecto ante fallos o errores en producción.
+
+## Importancia de Dominar los Conceptos Fundamentales
+
+Comprender la teoría detrás de Git y GitHub antes de memorizar sus comandos es crucial por las siguientes razones:
+
+* **Previene Pérdidas de Código:** Evita ejecutar comandos a ciegas que puedan borrar accidentalmente días de trabajo o sobreescribir el progreso de un compañero.
+* **Agiliza el Trabajo en Equipo:** Permite entender con precisión el flujo de los archivos (saber cuándo un cambio está en tu máquina y cuándo está disponible para el resto del grupo en la nube).
+* **Autonomía para Resolver Conflictos:** Cuando dos personas modifican la misma línea de código, el sistema se detiene; conocer los conceptos te da la lógica necesaria para decidir qué cambios conservar sin pánico.
+* **Facilita el Uso de Herramientas Visuales:** Las interfaces gráficas (como GitKraken, GitHub Desktop o Visual Studio Code) son más fáciles de usar si ya entiendes qué significan términos como *Commit*, *Merge* o *Staging*.
