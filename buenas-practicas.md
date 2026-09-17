@@ -23,3 +23,23 @@ Algunas prácticas importantes son:
 
 ---
 ## 3. Introducción
+
+
+Git es una herramienta muy utilizada en el desarrollo de software porque permite controlar las diferentes versiones de un proyecto. Gracias a Git, los desarrolladores pueden registrar los cambios, recuperar versiones anteriores y trabajar simultáneamente en un mismo proyecto.
+
+Por esta razón, es importante conocer y aplicar buenas prácticas en Git. Estas permiten mantener un proyecto organizado y reducir los problemas que pueden aparecer durante el desarrollo.
+
+---
+# 4. Características
+
+Las principales características de las buenas prácticas en Git son:
+
+- **Organización:** permite mantener ordenados los cambios del proyecto.
+- **Seguridad:** evita compartir información sensible.
+- **Colaboración:** facilita el trabajo entre varias personas.
+- **Control de versiones:** permite consultar y recuperar cambios anteriores.
+- **Claridad:** mantiene un historial de commits fácil de entender.
+- **Mantenimiento:** facilita la modificación y actualización del proyecto.
+
+---
+## 5. Ejemplos
